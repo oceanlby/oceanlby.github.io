@@ -7,8 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-Student of The School of Electronics Engineering and Computer Science, Peking University
+Undergraduate Student of The School of Electronics Engineering and Computer Science, Peking University
 
 About me
 ======
+I'm Boyang Lv,an undergraduate student of The School of Electronics Engineering and Computer Science, Peking University.
 
+My 
