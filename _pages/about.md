@@ -11,7 +11,7 @@ Undergraduate Student of The School of Electronics Engineering and Computer Scie
 
 About me
 ======
-I'm Boyang Lv,an undergraduate student of The School of Electronics Engineering and Computer Science, Peking University.
+I'm Boyang Lv, an undergraduate student of The School of Electronics Engineering and Computer Science, Peking University.
 
 My research interest lies in Computer Vision (CV), especially its low-level tasks, and I also have a keen interest in embodied intelligence.
 
