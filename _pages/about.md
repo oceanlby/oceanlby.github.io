@@ -19,8 +19,8 @@ My hobbies are photography, playing the bamboo flute, playing table tennis, and 
 
 Research Interests
 ======
-Computer Vision
-Embodied Intelligence
+- Computer Vision
+- Embodied Intelligence
 
 Education
 ======
